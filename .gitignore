@@ -161,7 +161,6 @@ cmake-build-*/
 # IntelliJ
 out/
 
-# gitignore
 .gitignore
 
 # mpeltonen/sbt-idea plugin
